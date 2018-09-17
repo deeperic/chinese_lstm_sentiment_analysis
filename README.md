@@ -11,5 +11,7 @@ Example of predictions:
 
 
 Blog: 
+
 Sentiment Analysis of Chinese financial news using LSTM
+
 https://deeperic.wordpress.com/2018/09/17/sentiment-analysis-of-chinese-financial-news-using-lstm/

@@ -10,5 +10,6 @@ Example of predictions:
 5) 油價下挫，中美貿易戰進一步升級，市場憂慮兩大經濟體增長減慢會打擊商品需求，加上中國進口數據顯示能源需求放緩，上月的每日原油進口量為848萬桶，較6月的836萬桶窄幅回升，但仍是年內第三低 (Negative)
 
 
-Blog: Sentiment Analysis of Chinese financial news using LSTM
+Blog: 
+Sentiment Analysis of Chinese financial news using LSTM
 https://deeperic.wordpress.com/2018/09/17/sentiment-analysis-of-chinese-financial-news-using-lstm/
